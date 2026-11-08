@@ -1,0 +1,13 @@
+# MULTIPLIED LINKS (12 total across 1 sites via standard):
+https://cdn.jsdelivr.net/gh/xrompf-alt/test@main/v0001/GUST.html
+https://fastly.jsdelivr.net/gh/xrompf-alt/test@main/v0001/GUST.html
+https://gcore.jsdelivr.net/gh/xrompf-alt/test@main/v0001/GUST.html
+https://testingcf.jsdelivr.net/gh/xrompf-alt/test@main/v0001/GUST.html
+https://cdn.statically.io/gh/xrompf-alt/test/main/v0001/GUST.html
+https://rawcdn.githack.com/xrompf-alt/test/main/v0001/GUST.html
+https://raw.githack.com/xrompf-alt/test/main/v0001/GUST.html
+https://raw.githubusercontent.com/xrompf-alt/test/main/v0001/GUST.html
+https://esm.sh/gh/xrompf-alt/test@main/v0001/GUST.html
+https://raw.esm.sh/gh/xrompf-alt/test@main/v0001/GUST.html
+https://cdn.jsdelivr.net/gh/xrompf-alt/test@main/v0002/GUST.html
+https://fastly.jsdelivr.net/gh/xrompf-alt/test@main/v0002/GUST.html
